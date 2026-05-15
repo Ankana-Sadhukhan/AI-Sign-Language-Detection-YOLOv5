@@ -293,6 +293,7 @@ Submitted for:
 * Full Stack integration
 * Deployment-ready architecture
 * Real-world social impact
+* opencv
 
 ---
 
